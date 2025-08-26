@@ -3,4 +3,4 @@ pandas
 plotly
 requests
 numpy
-xml.etree.ElementTree
+xml
